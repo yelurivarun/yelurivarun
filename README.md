@@ -7,8 +7,8 @@ Business Intelligence & Data Visualization (Power BI, Tableau)
 
 
 🌱 I’m currently learning:
-Python
-SQL Databases
+Python ,
+SQL Databases ,
 Machine Learning 
 💞️ I’m looking to collaborate on:
 Data analysis and machine learning projects
